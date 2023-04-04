@@ -545,7 +545,7 @@ textarea,
     background: rgba(0, 0, 0, 0)
 }
 
-.notice-2HEN-u.colorBrand1-2u_MN9:before {
+/* .notice-2HEN-u.colorBrand1-2u_MN9:before {
     content: "";
     position: absolute;
     top: 0;
@@ -625,7 +625,7 @@ textarea,
 
 .typeWindows-2-g3UY>.wordmark-2u86JB>svg>g>path:not(:first-child) {
     display: none
-}
+} */
 
 .typeWindows-2-g3UY>.winButton-3UMjdg {
     top: -2px;
