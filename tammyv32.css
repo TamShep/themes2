@@ -1,5 +1,5 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
-@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css');
 
 :root {
   --background: url('https://i.imgur.com/Sm5VfNi.jpg');
@@ -39,7 +39,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=gg+sans:wght@100;300;400;500;700&display=swap');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
-@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css');
 
 :root {
   --background: url('https://i.imgur.com/Sm5VfNi.jpg');
